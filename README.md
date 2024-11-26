@@ -36,8 +36,8 @@
 
 <h2>◽ Find Me on📱 :</h2>
 <p> [Mail]: <a href="mailto:shubhamgaikwad5005@gmail.com">shubhamgaikwad5005@gmail.com </a>
- <p> [Contact/WhatsApp ]: 9168917536 /p>
- <p> [Linkdin]: www.linkedin.com/in/shubham-gaikwad-00b11021a/ /p>
+ <p> [Contact/WhatsApp ]: 9168917536 </p>
+ <p> [Linkdin]: www.linkedin.com/in/shubham-gaikwad-00b11021a/ </p>
  <p> [GitHub]: https://github.com/Shubhamgaikwad5005 </P>
  
  
