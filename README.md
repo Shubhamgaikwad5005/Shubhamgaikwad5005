@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm Shubham Gaikwad</h1>
-<h3 align="center">A passionate Software Tester From india</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Shubham Gaikwad</h1>
+ <h3 align="center"> "An enthusiastic Software Tester driven by excellence, integrity, and collaboration. A team player with strong interpersonal skills and effective time management abilities."</h3>
+ <p  align="center" >
+ <img src="https://github.com/user-attachments/assets/ba212187-05f5-4085-808c-8042a223bb6b" width='1200' heigth="150"/>
+ </p>
 
-- 💬 Ask me about **Manual Testing and Automation Testing, JavaScript, Java and SQL**
+ 
+ <h2>🙋‍♂ About Me</h2>
+ <p>🌱 I’m currently learning : Software Development Engineer in Test.
 
-- 📫 How to reach me **shubhamgaikwad5005@gmail.com**
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gaikwad-00b11021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-gaikwad-00b11021a/" height="30" width="40" /></a>
+💬 Ask me about : Manual Testing and Automation Testing, JavaScript, Java and SQL
+
+🥅 2024 Goals : Learning new things and contribute more</p>
+
+ <h2>🚀 Skills and Languages </h2>
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/d50f2d8b-eb18-4e48-b702-b7899459d151" heigth="60" width="60"/>
+  <img src="https://github.com/user-attachments/assets/eb49a93f-8b23-4ce6-9c66-487946596bfe" heigth="60" width="60"/>
+   <img src="https://github.com/user-attachments/assets/02ab6782-b7a8-4b19-92ee-9b894c5f9086" heigth="60" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
+<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" heigth="60" width="60"/>
+<img src="https://github.com/user-attachments/assets/ae041c51-7ad9-4ad1-88f6-7e236de86187" heigth="60" width="60"/>
+<img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" heigth="60" width="60"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h2> ◽ Hobbies</h2>
+<p> *  Reading Books</P>
+<p> * GYM</P>
+<p> * Exploring New Place</P>
+
+
+<h2>◽ Find Me on📱 :</h2>
+<p> [Mail]: <a href="mailto:shubhamgaikwad5005@gmail.com">shubhamgaikwad5005@gmail.com </a>
+ <p> [Contact/WhatsApp ]: 9168917536 /p>
+ <p> [Linkdin]: www.linkedin.com/in/shubham-gaikwad-00b11021a/ /p>
+ <p> [GitHub]: https://github.com/Shubhamgaikwad5005 </P>
+ 
+ 
+ <h2>- What i do</h2>
+ <p  align="center">
+ <img src="https://github.com/user-attachments/assets/4c1315f6-a818-4fc0-a3b9-df154cb4c3ca"/>
+ </p>
+ 
+ <h2>◽ GitHub Stats 📊 :</h2>
+ <p  align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Shubhamgaikwad5005&theme=tokyonight&show_icons=true"  heigth="200" width="565"/>
+</p>
